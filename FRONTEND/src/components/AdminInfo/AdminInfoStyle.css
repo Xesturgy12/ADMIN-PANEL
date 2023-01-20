@@ -1,0 +1,15 @@
+#userImg::-webkit-file-upload-button {
+    content: 'hello';
+    color: rgb(225, 241, 255);
+    background-color: rgb(83, 98, 93);
+    height: 10%;
+    width: 40%;
+    top: 0%;
+    margin-top:40px ;
+    border-radius: 20px;
+}
+
+.card_dimensions{
+    max-width: 300px;
+    max-height: 400px;
+}

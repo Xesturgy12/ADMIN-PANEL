@@ -1,0 +1,18 @@
+.form_user{
+    background-color: rgba(129, 126, 120, 0.5);
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.form_body{
+    background-color: rgba(170, 169, 168, 0.5);
+    padding-top: 40px;
+    padding-bottom: 40px;
+
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}

@@ -1,0 +1,25 @@
+.hover_exit{
+    color: aliceblue;
+    display: none;
+}
+
+.online{
+    background-color: rgb(50, 231, 50);
+    border: 2px rgb(40, 201, 40) solid;
+}
+
+.offline{
+    background-color: rgb(231, 86, 50);
+    border: 2px rgb(197, 75, 44) solid;
+}
+
+.butn{
+    margin: auto;
+    border-radius: 100%;
+    width: 20px;
+    height: 20px;
+}
+
+.required_field{
+    color: crimson;
+}

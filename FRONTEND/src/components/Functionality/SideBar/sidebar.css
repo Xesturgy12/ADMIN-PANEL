@@ -1,0 +1,24 @@
+body{
+    font-family: 'IBM Plex Serif', serif;
+    font-size: large;
+    font-weight: 500;
+}
+
+#img_custom{
+    width: 65px;
+    height: 50px;
+    margin-left: 15px;
+}
+
+
+#tooltip_div{
+    margin-top: 10px;
+    margin: auto;
+    color: rgb(223, 74, 74);
+    font-size: larger;
+}
+
+#tooltip_div:hover{
+    color: rgb(241, 171, 139);
+}
+
