@@ -7,6 +7,7 @@ you access to a tab for creating new users and updating your info.
 
 
 *The Back End*
+
   A node js based Environment
   express js for processing http based requests (with cors and extended json support enabled)
   mongoose for manipulating data from MongoDB atlas DB
